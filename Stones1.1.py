@@ -1,3 +1,9 @@
+# Important note: In its current state the program only works with
+# the mode where the user goes first this will be fixed in the
+# future so dont worry. But seeing as its 1:38 in the morning
+# I need sleep. Ave a good one!
+
+
 import random
 
 
